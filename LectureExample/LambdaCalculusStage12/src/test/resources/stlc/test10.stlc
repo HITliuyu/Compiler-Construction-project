@@ -1,0 +1,7 @@
+let a = 1 in
+let pt = (a, add a 2) in
+let c = 2 in
+let f = \b:Bool. if b then pt.1 else a in
+let g = \b:Nat. mul b pt.2 in
+let fg = (f, g) in
+fg.2 (fg.1 true)

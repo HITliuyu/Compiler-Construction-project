@@ -1,0 +1,20 @@
+[0m[[0minfo[0m] [0mRunning de.tuberlin.uebb.comp1.moc.Main -i test/text.mo[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-7 to terminate.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Nesh\Dropbox\School Stuff\Compiler Construction I\Workshops\MOCTemplate\target\scala-2.11\classes[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Nesh\Dropbox\School Stuff\Compiler Construction I\Workshops\MOCTemplate\lib\covm_2.11-0.1.1.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Nesh\Dropbox\School Stuff\Compiler Construction I\Workshops\MOCTemplate\lib\parsercombinators_2.11-0.1.0.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Nesh\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Nesh\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\bundles\scala-parser-combinators_2.11-1.0.2.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Nesh\.ivy2\cache\com.github.scala-incubator.io\scala-io-core_2.11\jars\scala-io-core_2.11-0.4.3.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Nesh\.ivy2\cache\com.madgag\scala-arm_2.11\jars\scala-arm_2.11-1.3.3.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Nesh\.ivy2\cache\org.scala-lang.plugins\scala-continuations-library_2.11\bundles\scala-continuations-library_2.11-1.0.1.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Nesh\.ivy2\cache\com.github.scala-incubator.io\scala-io-file_2.11\jars\scala-io-file_2.11-0.4.3.jar[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Nesh\.ivy2\cache\commons-lang\commons-lang\jars\commons-lang-2.6.jar[0m
+[0m[[0mdebug[0m] [0mInterrupting thread run-main-7[0m
+[0m[[0mdebug[0m] [0m	Interrupted run-main-7[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-7 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m

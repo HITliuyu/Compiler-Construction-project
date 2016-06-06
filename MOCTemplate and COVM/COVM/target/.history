@@ -1,0 +1,4 @@
+target/start -d trace foo.S
+start-script
+target/start -d trace foo.S
+exit

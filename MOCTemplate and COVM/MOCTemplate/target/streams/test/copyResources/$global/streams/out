@@ -1,0 +1,13 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\resources\codegenerator,E:\Exercise\MOCTemplate and COVM\MOCTemplate\target\scala-2.11\test-classes\codegenerator)[0m
+[0m[[0mdebug[0m] [0m	(E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\resources\contextchecker,E:\Exercise\MOCTemplate and COVM\MOCTemplate\target\scala-2.11\test-classes\contextchecker)[0m
+[0m[[0mdebug[0m] [0m	(E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\resources\interpreter,E:\Exercise\MOCTemplate and COVM\MOCTemplate\target\scala-2.11\test-classes\interpreter)[0m
+[0m[[0mdebug[0m] [0m	(E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\resources\parser,E:\Exercise\MOCTemplate and COVM\MOCTemplate\target\scala-2.11\test-classes\parser)[0m
+[0m[[0mdebug[0m] [0m	(E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\resources\codegenerator\fac.mo,E:\Exercise\MOCTemplate and COVM\MOCTemplate\target\scala-2.11\test-classes\codegenerator\fac.mo)[0m
+[0m[[0mdebug[0m] [0m	(E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\resources\codegenerator\fac.mo.expected,E:\Exercise\MOCTemplate and COVM\MOCTemplate\target\scala-2.11\test-classes\codegenerator\fac.mo.expected)[0m
+[0m[[0mdebug[0m] [0m	(E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\resources\contextchecker\fac.mo,E:\Exercise\MOCTemplate and COVM\MOCTemplate\target\scala-2.11\test-classes\contextchecker\fac.mo)[0m
+[0m[[0mdebug[0m] [0m	(E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\resources\contextchecker\fac.mo.expected,E:\Exercise\MOCTemplate and COVM\MOCTemplate\target\scala-2.11\test-classes\contextchecker\fac.mo.expected)[0m
+[0m[[0mdebug[0m] [0m	(E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\resources\interpreter\fac.mo,E:\Exercise\MOCTemplate and COVM\MOCTemplate\target\scala-2.11\test-classes\interpreter\fac.mo)[0m
+[0m[[0mdebug[0m] [0m	(E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\resources\interpreter\fac.mo.expected,E:\Exercise\MOCTemplate and COVM\MOCTemplate\target\scala-2.11\test-classes\interpreter\fac.mo.expected)[0m
+[0m[[0mdebug[0m] [0m	(E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\resources\parser\fac.mo,E:\Exercise\MOCTemplate and COVM\MOCTemplate\target\scala-2.11\test-classes\parser\fac.mo)[0m
+[0m[[0mdebug[0m] [0m	(E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\resources\parser\fac.mo.expected,E:\Exercise\MOCTemplate and COVM\MOCTemplate\target\scala-2.11\test-classes\parser\fac.mo.expected)[0m

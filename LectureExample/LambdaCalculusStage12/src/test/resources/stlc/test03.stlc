@@ -1,0 +1,3 @@
+let app = \f:Nat->Nat.\n:Nat. f n in
+let fst = \p:Nat*Nat. p.1 in
+app (\n:Nat. add n 1) (fst (1,4))

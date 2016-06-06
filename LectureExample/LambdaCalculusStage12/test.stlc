@@ -1,0 +1,7 @@
+let and = \x:Bool. \y:Bool. if x then y else false in
+and (and true true) false
+
+-- let diverge = fix f: Nat -> Nat. x. f x in
+-- let x = diverge 6 in
+-- 1
+

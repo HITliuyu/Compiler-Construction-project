@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mInterpreterTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mMOpal Interpreter[0m[0m
+[0m[[0minfo[0m] [0m[31m- Interpreting fac.mo should succeed *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  Received the error[0m[0m
+[0m[[0minfo[0m] [0m[31m  ERROR at global: Parser not yet implemented (InterpreterTest.scala:57)[0m[0m

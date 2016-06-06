@@ -1,0 +1,73 @@
+compile
+last
+compile
+eclipse
+test
+ls
+doc
+run
+run test/text.mo
+build
+compile
+run
+run test/text.mo
+package
+exit
+help
+reload
+compile
+assembly
+one-jar
+version
+one-jar
+run
+run test/text.mo
+exit
+run
+compile
+update
+compile
+run
+run test/text.mo
+run
+run test/text.mo
+compile
+run test/text.mo
+clear
+lean
+clean
+clr
+run test/text.mo
+run -unchecked
+run -unchecked test/text.mop
+run-unchecked test/text.mop
+run test/text.mo
+compile
+run test/text.mo
+run test/text.mo\
+run test/text.mo
+compile
+run test/text.mo
+exit
+run test/text.mo
+compile
+clean
+compile
+run test/text.mo
+run
+run test/text.mo
+compile
+clean
+compile
+run test/text.mo
+run test/text.no
+run test/text.mo
+compile
+run test/text.mo
+run -i test/text.mo
+run test/text.mo
+run -i test/text.mo
+compile
+run -i test/text.mo
+compile
+run -i test/text.mo

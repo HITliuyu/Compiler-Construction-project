@@ -1,0 +1,78 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala, E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala, E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala, E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala, E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala, E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala, E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala, E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala, E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala, E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala, E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala, E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala, E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 5 sources: invalidated sources (5) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 5 Scala sources to E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.2[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.2[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 3a3e1831, interfacing (CompilerInterface) with Scala compiler version 2.11.2[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-feature[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	D:\Program Files\Java\jre1.8.0_25\lib\resources.jar;D:\Program Files\Java\jre1.8.0_25\lib\rt.jar;D:\Program Files\Java\jre1.8.0_25\lib\sunrsasign.jar;D:\Program Files\Java\jre1.8.0_25\lib\jsse.jar;D:\Program Files\Java\jre1.8.0_25\lib\jce.jar;D:\Program Files\Java\jre1.8.0_25\lib\charsets.jar;D:\Program Files\Java\jre1.8.0_25\lib\jfr.jar;D:\Program Files\Java\jre1.8.0_25\classes;C:\Users\liuyu_000\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes;C:\Users\liuyu_000\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\bundles\scala-parser-combinators_2.11-1.0.2.jar;C:\Users\liuyu_000\.ivy2\cache\com.github.scopt\scopt_2.11\jars\scopt_2.11-3.2.0.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 15.948322247 s[0m
+[0m[[0mdebug[0m] [0mInvalidating E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala)[0m
+[0m[[0mdebug[0m] [0mThe E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, s, Jgt, PushInt, wait, $asInstanceOf, Unpack, n, productArity, equals, Swap, Address, Add, asInstanceOf, synchronized, Pack, a, $isInstanceOf, canEqual, Mul, productPrefix, Push, i, notifyAll, readResolve, isInstanceOf, Jlt, <init>, PushAddr, Label, ==, Ret, clone, p, Pointer, Sub, copy, Slide, toString, Jmp, !=, LabelledAddress, getClass, Abort, copy$default$1, Jz, Instruction, Stop, ne, Call, eq, Div, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala: Set(s, Swap, Add, asInstanceOf, Mul, isInstanceOf, <init>, Ret, Sub, Instruction, Stop, Call, Div)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala: Set(s, n, Swap, Address, Add, asInstanceOf, a, Mul, i, isInstanceOf, <init>, ==, Ret, p, Sub, toString, !=, Instruction, Stop, ne, Call, Div)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala: Set(n, asInstanceOf, a, isInstanceOf, <init>, ==, toString, eq)[0m
+[0m[[0mdebug[0m] [0mInvalidating E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala)[0m
+[0m[[0mdebug[0m] [0mThe E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	versionNumber, notify, unapply, curried, stackSize, wait, apply$default$4, heapSize, optParser, copy$default$2, $asInstanceOf, <init>$default$1, productArity, equals, asInstanceOf, debugLevel, synchronized, $isInstanceOf, apply$default$3, <init>$default$4, tupled, canEqual, copy$default$4, main, productPrefix, notifyAll, readResolve, isInstanceOf, <init>$default$3, <init>, apply$default$2, apply, ==, clone, Options, copy$default$3, copy, apply$default$1, Main, toString, !=, getClass, copy$default$1, ne, input, <init>$default$2, eq, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala)[0m
+[0m[[0mdebug[0m] [0mIncluding E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala by E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala, E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala)[0m
+[0m[[0mdebug[0m] [0mThe E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, unapply, stackSize, printStackTrace, getLocalizedMessage, wait, showHeapPlain, reserve, heapSize, $asInstanceOf, alloc, compose, INT_TAG, showStackPlain, pop, allocTuple, productArity, sweep, equals, fillInStackTrace, initCause, asInstanceOf, push, synchronized, $isInstanceOf, andThen, getCause, canEqual, productPrefix, notifyAll, readResolve, isInstanceOf, fp, getStackTrace, getStackTraceElement, die, <init>, Count, NIL, getMessage, setStackTrace, apply, getSuppressed, FREE_TAG, ==, allocInt, getStackTraceDepth, clone, addSuppressed, gc, stack, MachineRuntimeException, copy, toString, err, showDerefPointer, !=, getClass, showStackWord, heap, copy$default$1, mark, sp, ne, TUPLE_TAG, showStack, eq, productIterator, MemoryManagement, ##, finalize, Ref, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala: Set(stackSize, showHeapPlain, heapSize, INT_TAG, showStackPlain, pop, allocTuple, asInstanceOf, push, isInstanceOf, die, <init>, apply, ==, allocInt, stack, toString, !=, showStackWord, heap, sp, ne, TUPLE_TAG, showStack, MemoryManagement, Ref)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala: Set(stackSize, printStackTrace, heapSize, asInstanceOf, isInstanceOf, <init>, ==, toString, err, eq)[0m
+[0m[[0mdebug[0m] [0mInvalidating E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala)[0m
+[0m[[0mdebug[0m] [0mThe E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, unapply, stackSize, printStackTrace, getLocalizedMessage, wait, showHeapPlain, reserve, heapSize, $asInstanceOf, alloc, compose, INT_TAG, showStackPlain, pop, allocTuple, productArity, sweep, equals, getResult, fillInStackTrace, initCause, asInstanceOf, unwrapPointer, run, push, synchronized, $isInstanceOf, andThen, getCause, canEqual, productPrefix, notifyAll, readResolve, isInstanceOf, getStackTrace, getStackTraceElement, die, <init>, popInt, Count, NIL, getMessage, setStackTrace, apply, getSuppressed, DebugDump, FREE_TAG, COVM, ==, allocInt, getStackTraceDepth, showCurrentInstruction, clone, DebugTrace, addSuppressed, gc, stack, MachineRuntimeException, dumpState, copy, toString, traceState, err, showDerefPointer, !=, getClass, showStackWord, heap, copy$default$1, mark, DebugNone, start, sp, ne, TUPLE_TAG, showStack, DebugLevel, eq, productIterator, ##, finalize, Ref, productElement, hashCode, printResult.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala: Set(stackSize, printStackTrace, heapSize, asInstanceOf, isInstanceOf, <init>, DebugDump, COVM, ==, DebugTrace, toString, err, DebugNone, start, DebugLevel, eq, printResult)[0m
+[0m[[0mdebug[0m] [0mInvalidating E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala)[0m
+[0m[[0mdebug[0m] [0mThe E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	literal, accept, regex.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following member ref dependencies of E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala are invalidated:[0m
+[0m[[0mdebug[0m] [0m	E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

@@ -1,0 +1,73 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\TestObjects.scala, E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\CodeGeneratorTest.scala, E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\ParserTest.scala, E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\InterpreterTest.scala, E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\ContextCheckerTest.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\TestObjects.scala, E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\CodeGeneratorTest.scala, E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\ParserTest.scala, E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\InterpreterTest.scala, E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\ContextCheckerTest.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\TestObjects.scala, E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\CodeGeneratorTest.scala, E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\ParserTest.scala, E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\InterpreterTest.scala, E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\ContextCheckerTest.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 5 sources: invalidated sources (5) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 5 Scala sources to E:\Exercise\MOCTemplate and COVM\MOCTemplate\target\scala-2.11\test-classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.2[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.2[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 7d45dd8c, interfacing (CompilerInterface) with Scala compiler version 2.11.2[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-feature[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	D:\Program Files\Java\jre1.8.0_25\lib\resources.jar;D:\Program Files\Java\jre1.8.0_25\lib\rt.jar;D:\Program Files\Java\jre1.8.0_25\lib\sunrsasign.jar;D:\Program Files\Java\jre1.8.0_25\lib\jsse.jar;D:\Program Files\Java\jre1.8.0_25\lib\jce.jar;D:\Program Files\Java\jre1.8.0_25\lib\charsets.jar;D:\Program Files\Java\jre1.8.0_25\lib\jfr.jar;D:\Program Files\Java\jre1.8.0_25\classes;C:\Users\liuyu_000\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	E:\Exercise\MOCTemplate and COVM\MOCTemplate\target\scala-2.11\test-classes;E:\Exercise\MOCTemplate and COVM\MOCTemplate\target\scala-2.11\classes;E:\Exercise\MOCTemplate and COVM\MOCTemplate\lib\covm_2.11-0.1.1.jar;E:\Exercise\MOCTemplate and COVM\MOCTemplate\lib\parsercombinators_2.11-0.1.0.jar;C:\Users\liuyu_000\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\bundles\scala-parser-combinators_2.11-1.0.2.jar;C:\Users\liuyu_000\.ivy2\cache\com.github.scala-incubator.io\scala-io-core_2.11\jars\scala-io-core_2.11-0.4.3.jar;C:\Users\liuyu_000\.ivy2\cache\com.madgag\scala-arm_2.11\jars\scala-arm_2.11-1.3.3.jar;C:\Users\liuyu_000\.ivy2\cache\org.scala-lang.plugins\scala-continuations-library_2.11\bundles\scala-continuations-library_2.11-1.0.1.jar;C:\Users\liuyu_000\.ivy2\cache\com.github.scala-incubator.io\scala-io-file_2.11\jars\scala-io-file_2.11-0.4.3.jar;C:\Users\liuyu_000\.ivy2\cache\org.scalatest\scalatest_2.11\bundles\scalatest_2.11-2.2.1.jar;C:\Users\liuyu_000\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.2.jar;C:\Users\liuyu_000\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\bundles\scala-xml_2.11-1.0.2.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 5.224731315 s[0m
+[0m[[0mdebug[0m] [0mInvalidating E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\ContextCheckerTest.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\ContextCheckerTest.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\ContextCheckerTest.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\ContextCheckerTest.scala)[0m
+[0m[[0mdebug[0m] [0mThe E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\ContextCheckerTest.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	convertToAnyShouldWrapper, convertNumericToPlusOrMinusWrapper, convertToEqualizer, convertToRegexWrapper, unconstrainedEquality, convertToStringShouldWrapper, convertSymbolToHavePropertyMatcherGenerator.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\TestObjects.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\TestObjects.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\TestObjects.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\TestObjects.scala)[0m
+[0m[[0mdebug[0m] [0mThe E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\TestObjects.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, SucceedCodeGenerator, DefaultOptions, printStackTrace, getLocalizedMessage, source, wait, copy$default$2, $asInstanceOf, productArity, equals, fillInStackTrace, initCause, asInstanceOf, synchronized, $isInstanceOf, SucceedInterpreter, getCause, SucceedParser, TestSuiteDir, canEqual, copy$default$4, productPrefix, interp, notifyAll, readResolve, debug, isInstanceOf, getStackTrace, getStackTraceElement, getDir, <init>, FailExec, getMessage, setStackTrace, check, getSuppressed, parse, ==, getStackTraceDepth, clone, addSuppressed, SucceedExec, copy$default$3, copy, toString, !=, TestException, getClass, output, copy$default$1, start, ne, eq, productIterator, SucceedChecker, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\ContextCheckerTest.scala: Set(TestSuiteDir, getDir, <init>, getMessage, check, ==, !=, TestException, SucceedChecker)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\CodeGeneratorTest.scala: Set(TestSuiteDir, getDir, <init>, FailExec, getMessage, ==, SucceedExec, toString, !=, TestException, start)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\ParserTest.scala: Set(SucceedParser, TestSuiteDir, getDir, <init>, getMessage, parse, ==, !=, TestException)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\InterpreterTest.scala: Set(SucceedInterpreter, TestSuiteDir, getDir, <init>, getMessage, ==, toString, !=, TestException, start)[0m
+[0m[[0mdebug[0m] [0mInvalidating E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\CodeGeneratorTest.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\CodeGeneratorTest.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\CodeGeneratorTest.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\CodeGeneratorTest.scala)[0m
+[0m[[0mdebug[0m] [0mThe E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\CodeGeneratorTest.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	convertToAnyShouldWrapper, convertNumericToPlusOrMinusWrapper, convertToEqualizer, convertToRegexWrapper, unconstrainedEquality, convertToStringShouldWrapper, convertSymbolToHavePropertyMatcherGenerator.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\InterpreterTest.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\InterpreterTest.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\InterpreterTest.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\InterpreterTest.scala)[0m
+[0m[[0mdebug[0m] [0mThe E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\InterpreterTest.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	convertToAnyShouldWrapper, convertNumericToPlusOrMinusWrapper, convertToEqualizer, convertToRegexWrapper, unconstrainedEquality, convertToStringShouldWrapper, convertSymbolToHavePropertyMatcherGenerator.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\ParserTest.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\ParserTest.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\ParserTest.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\ParserTest.scala)[0m
+[0m[[0mdebug[0m] [0mThe E:\Exercise\MOCTemplate and COVM\MOCTemplate\src\test\scala\de\tuberlin\uebb\comp1\moc\tests\ParserTest.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	convertToAnyShouldWrapper, convertNumericToPlusOrMinusWrapper, convertToEqualizer, convertToRegexWrapper, unconstrainedEquality, convertToStringShouldWrapper, convertSymbolToHavePropertyMatcherGenerator.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

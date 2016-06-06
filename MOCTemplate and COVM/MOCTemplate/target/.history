@@ -1,0 +1,6 @@
+compile
+eclipse
+start-script
+target/start src/test/resources/parser/fac.mo
+test
+exit

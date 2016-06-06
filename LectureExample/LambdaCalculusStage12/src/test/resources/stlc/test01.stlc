@@ -1,0 +1,7 @@
+let inc = \n:Nat. add n 1 in
+let dec = \n:Nat. sub n 1 in
+let pt = (6, 8) in
+if lt pt.1 7 then
+  mul (inc 6) (dec 8)
+else
+  (pt.2, pt.1).1

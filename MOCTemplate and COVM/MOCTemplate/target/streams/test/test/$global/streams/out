@@ -1,0 +1,15 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(de.tuberlin.uebb.comp1.moc.tests.InterpreterTest, org.scalatest.tools.Framework$$anon$1@6a9722a2, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(de.tuberlin.uebb.comp1.moc.tests.ParserTest, org.scalatest.tools.Framework$$anon$1@6a9722a2, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(de.tuberlin.uebb.comp1.moc.tests.CodeGeneratorTest, org.scalatest.tools.Framework$$anon$1@6a9722a2, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(de.tuberlin.uebb.comp1.moc.tests.ContextCheckerTest, org.scalatest.tools.Framework$$anon$1@6a9722a2, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 1 second, 450 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 4[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 4, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 0, failed 4, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[31m*** 4 TESTS FAILED ***[0m[0m
+[0m[[31merror[0m] [0mFailed tests:[0m
+[0m[[31merror[0m] [0m	de.tuberlin.uebb.comp1.moc.tests.ContextCheckerTest[0m
+[0m[[31merror[0m] [0m	de.tuberlin.uebb.comp1.moc.tests.ParserTest[0m
+[0m[[31merror[0m] [0m	de.tuberlin.uebb.comp1.moc.tests.CodeGeneratorTest[0m
+[0m[[31merror[0m] [0m	de.tuberlin.uebb.comp1.moc.tests.InterpreterTest[0m
+[0m[[31merror[0m] [0m(test:[31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m

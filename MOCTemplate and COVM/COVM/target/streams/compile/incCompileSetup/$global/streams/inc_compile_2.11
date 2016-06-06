@@ -1,0 +1,1001 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes
+compile options:
+2 items
+0 -> -deprecation
+1 -> -feature
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+130 items
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\COVM$$anonfun$run$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\COVM$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\COVM.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\DebugDump$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\DebugDump.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\DebugLevel.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\DebugNone$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\DebugNone.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\DebugTrace$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\DebugTrace.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseAbort$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseAbort$2.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseAdd$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseDiv$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$10.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$11.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$12.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$13.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$14.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$15.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$16.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$17.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$18.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$2.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$3.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$4.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$5.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$6.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$7.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$8.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$9.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseJgt$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseJgt$2.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseJlt$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseJlt$2.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseJmp$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseJmp$2.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseJz$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseJz$2.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseMul$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parsePack$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parsePack$2.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parsePush$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parsePush$2.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parsePushAddr$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parsePushAddr$2.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parsePushInt$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parsePushInt$2.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseRet$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseSlide$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseSlide$2.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseStop$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseSub$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseSwap$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseUnpack$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseUnpack$2.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$stringRegex$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$parseAllInst$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$parseAllInst$2.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$parseCall$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Abort$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Abort.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Add$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Add.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Address.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Call$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Call.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Div$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Div.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Instruction.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Jgt$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Jgt.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Jlt$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Jlt.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Jmp$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Jmp.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Jz$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Jz.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Label$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Label.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\LabelledAddress$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\LabelledAddress.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Mul$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Mul.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Pack$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Pack.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Pointer$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Pointer.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Push$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Push.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\PushAddr$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\PushAddr.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\PushInt$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\PushInt.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Ret$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Ret.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Slide$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Slide.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Stop$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Stop.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Sub$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Sub.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Swap$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Swap.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Unpack$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Unpack.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\Main$$anon$1$$anonfun$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\Main$$anon$1$$anonfun$2.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\Main$$anon$1$$anonfun$3.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\Main$$anon$1$$anonfun$4.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\Main$$anon$1$$anonfun$5.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\Main$$anon$1$$anonfun$6.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\Main$$anon$1$$anonfun$7.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\Main$$anon$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\Main$$anonfun$main$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\Main$$anonfun$main$2.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\Main$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\Main$Options$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\Main$Options.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\Main.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\MemoryManagement$$anonfun$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\MemoryManagement$$anonfun$2.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\MemoryManagement$$anonfun$mark$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\MemoryManagement$$anonfun$showHeapPlain$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\MemoryManagement$$anonfun$showStackPlain$1.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\MemoryManagement$MachineRuntimeException$.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\MemoryManagement$MachineRuntimeException.class
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\MemoryManagement.class
+binary dependencies:
+12 items
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> C:\Users\liuyu_000\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> D:\Program Files\Java\jre1.8.0_25\lib\rt.jar
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> C:\Users\liuyu_000\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\bundles\scala-parser-combinators_2.11-1.0.2.jar
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> C:\Users\liuyu_000\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> D:\Program Files\Java\jre1.8.0_25\lib\rt.jar
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> C:\Users\liuyu_000\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> D:\Program Files\Java\jre1.8.0_25\lib\rt.jar
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> C:\Users\liuyu_000\.ivy2\cache\com.github.scopt\scopt_2.11\jars\scopt_2.11-3.2.0.jar
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> C:\Users\liuyu_000\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> D:\Program Files\Java\jre1.8.0_25\lib\rt.jar
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> C:\Users\liuyu_000\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> D:\Program Files\Java\jre1.8.0_25\lib\rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+6 items
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+1 items
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala
+inheritance external dependencies:
+0 items
+class names:
+130 items
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> de.tuberlin.uebb.comp1.covm.COVM
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> de.tuberlin.uebb.comp1.covm.COVM$
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> de.tuberlin.uebb.comp1.covm.COVM$$anonfun$run$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> de.tuberlin.uebb.comp1.covm.DebugDump
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> de.tuberlin.uebb.comp1.covm.DebugDump$
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> de.tuberlin.uebb.comp1.covm.DebugLevel
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> de.tuberlin.uebb.comp1.covm.DebugNone
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> de.tuberlin.uebb.comp1.covm.DebugNone$
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> de.tuberlin.uebb.comp1.covm.DebugTrace
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> de.tuberlin.uebb.comp1.covm.DebugTrace$
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseAbort$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseAbort$2
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseAdd$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseDiv$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$10
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$11
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$12
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$13
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$14
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$15
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$16
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$17
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$18
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$2
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$3
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$4
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$5
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$6
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$7
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$8
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$9
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseJgt$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseJgt$2
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseJlt$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseJlt$2
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseJmp$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseJmp$2
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseJz$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseJz$2
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseMul$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parsePack$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parsePack$2
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parsePush$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parsePush$2
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parsePushAddr$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parsePushAddr$2
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parsePushInt$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parsePushInt$2
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseRet$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseSlide$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseSlide$2
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseStop$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseSub$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseSwap$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseUnpack$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseUnpack$2
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$stringRegex$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$parseAllInst$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$parseAllInst$2
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de.tuberlin.uebb.comp1.covm.InstructionParser$$anonfun$parseCall$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Abort
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Abort$
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Add
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Add$
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Address
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Call
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Call$
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Div
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Div$
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Instruction
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Jgt
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Jgt$
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Jlt
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Jlt$
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Jmp
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Jmp$
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Jz
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Jz$
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Label
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Label$
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.LabelledAddress
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.LabelledAddress$
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Mul
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Mul$
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Pack
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Pack$
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Pointer
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Pointer$
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Push
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Push$
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.PushAddr
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.PushAddr$
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.PushInt
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.PushInt$
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Ret
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Ret$
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Slide
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Slide$
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Stop
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Stop$
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Sub
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Sub$
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Swap
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Swap$
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Unpack
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de.tuberlin.uebb.comp1.covm.instructions.Unpack$
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> de.tuberlin.uebb.comp1.covm.Main
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> de.tuberlin.uebb.comp1.covm.Main$
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> de.tuberlin.uebb.comp1.covm.Main$$anon$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> de.tuberlin.uebb.comp1.covm.Main$$anon$1$$anonfun$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> de.tuberlin.uebb.comp1.covm.Main$$anon$1$$anonfun$2
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> de.tuberlin.uebb.comp1.covm.Main$$anon$1$$anonfun$3
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> de.tuberlin.uebb.comp1.covm.Main$$anon$1$$anonfun$4
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> de.tuberlin.uebb.comp1.covm.Main$$anon$1$$anonfun$5
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> de.tuberlin.uebb.comp1.covm.Main$$anon$1$$anonfun$6
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> de.tuberlin.uebb.comp1.covm.Main$$anon$1$$anonfun$7
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> de.tuberlin.uebb.comp1.covm.Main$$anonfun$main$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> de.tuberlin.uebb.comp1.covm.Main$$anonfun$main$2
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> de.tuberlin.uebb.comp1.covm.Main$Options
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> de.tuberlin.uebb.comp1.covm.Main$Options$
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> de.tuberlin.uebb.comp1.covm.MemoryManagement
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> de.tuberlin.uebb.comp1.covm.MemoryManagement$$anonfun$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> de.tuberlin.uebb.comp1.covm.MemoryManagement$$anonfun$2
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> de.tuberlin.uebb.comp1.covm.MemoryManagement$$anonfun$mark$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> de.tuberlin.uebb.comp1.covm.MemoryManagement$$anonfun$showHeapPlain$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> de.tuberlin.uebb.comp1.covm.MemoryManagement$$anonfun$showStackPlain$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> de.tuberlin.uebb.comp1.covm.MemoryManagement$MachineRuntimeException
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> de.tuberlin.uebb.comp1.covm.MemoryManagement$MachineRuntimeException$
+used names:
+496 items
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> !=
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> &
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> &&
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> *
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> +
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> -
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> /
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> <
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> <init>
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> ==
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> >
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> >=
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> >>
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> Add
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> Address
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> AnyRef
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> COVM
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> Call
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> DebugDump
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> DebugLevel
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> DebugNone
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> DebugTrace
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> Div
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> Either
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> INT_TAG
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> Instruction
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> Int
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> Left
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> List
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> MemoryManagement
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> Mul
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> Predef
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> Product
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> Ref
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> Ret
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> Right
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> ScalaRunTime
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> Serializable
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> Stop
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> String
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> Sub
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> Swap
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> TUPLE_TAG
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> Unit
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> a
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> ad
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> allocInt
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> allocTuple
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> apply
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> asInstanceOf
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> augmentString
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> b
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> by
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> c
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> comp1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> count
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> covm
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> de
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> debugLevel
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> die
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> dumpState
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> foreach
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> getResult
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> heap
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> heapSize
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> i
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> instr
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> instructions
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> intWrapper
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> ip
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> ipString
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> isInstanceOf
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> j
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> length
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> msg
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> n
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> nL
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> ne
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> p
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> package
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> pop
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> popInt
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> println
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> ptr
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> push
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> run
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> runtime
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> s
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> scala
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> showCurrentInstruction
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> showHeapPlain
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> showStack
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> showStackPlain
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> showStackWord
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> size
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> sp
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> sp_=
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> stack
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> stackSize
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> tag
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> to
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> toInt
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> toLong
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> toString
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> traceState
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> tuberlin
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> typedProductIterator
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> uebb
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> unwrapPointer
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> update
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> w
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> w0
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> w1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> while$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> x
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> y
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> ||
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> -
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> <init>
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> Add
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> Call
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> Div
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> Either
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> Instruction
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> InstructionParser
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> Left
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> List
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> Mul
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> NoSuccess
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> Parser
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> Parsers
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> Predef
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> Regex
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> RegexParsers
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> Ret
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> Right
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> Stop
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> String
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> Sub
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> Swap
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> ^^
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> _1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> asInstanceOf
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> augmentString
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> combinator
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> comp1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> covm
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> de
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> err
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> get
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> in
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> instructions
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> intRegex
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> isEmpty
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> isInstanceOf
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> length
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> literal
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> matching
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> nnIntRegex
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> package
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> parseAbort
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> parseAdd
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> parseAll
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> parseAllInst
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> parseCall
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> parseDiv
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> parseInst
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> parseJgt
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> parseJlt
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> parseJmp
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> parseJz
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> parseMul
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> parsePack
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> parsePush
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> parsePushAddr
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> parsePushInt
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> parseRet
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> parseSlide
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> parseStop
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> parseSub
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> parseSwap
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> parseUnpack
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> parsing
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> r
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> regex
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> rep1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> result
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> s
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> scala
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> stringRegex
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> substring
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> toInt
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> tuberlin
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> uebb
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> unapply
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> unary_!
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> util
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> whiteSpace
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> x
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> |
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> ~>
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> &&
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> +
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> <init>
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> ==
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> Abort
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> AbstractFunction1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> Add
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> Address
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> AnyRef
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> Call
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> Div
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> Instruction
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> Int
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> Jgt
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> Jlt
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> Jmp
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> Jz
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> Label
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> LabelledAddress
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> Mul
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> None
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> Pack
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> Pointer
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> Predef
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> Product
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> Push
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> PushAddr
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> PushInt
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> Ret
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> ScalaRunTime
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> Serializable
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> Slide
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> Statics
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> Stop
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> String
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> Sub
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> Swap
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> Unpack
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> _hashCode
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> _toString
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> a
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> asInstanceOf
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> comp1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> covm
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> de
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> eq
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> finalizeHash
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> i
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> instructions
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> isInstanceOf
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> mix
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> n
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> p
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> runtime
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> s
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> scala
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> toString
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> tuberlin
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> typedProductIterator
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> uebb
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> ||
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> $anon
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> &&
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> <init>
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> ==
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> >
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> AbstractFunction4
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> AnyRef
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> Array
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> COVM
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> Codec
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> DebugDump
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> DebugLevel
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> DebugNone
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> DebugTrace
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> InstructionParser
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> Int
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> Main
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> None
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> OptionParser
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> Options
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> Predef
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> Product
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> Read
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> ScalaRunTime
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> Serializable
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> Source
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> Statics
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> String
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> System
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> Throwable
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> Unit
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> _toString
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> a
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> action
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> anyHash
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> arg
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> args
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> asInstanceOf
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> b
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> c
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> code
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> comp1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> covm
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> de
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> debugLevel
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> eq
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> err
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> exit
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> f
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> failure
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> fallbackSystemCodec
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> finalizeHash
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> fromFile
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> getOrElse
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> head
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> heapSize
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> input
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> inputString
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> intRead
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> io
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> isInstanceOf
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> java
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> lang
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> machine
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> map
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> mix
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> mkString
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> n
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> opt
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> optParser
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> opts
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> package
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> parse
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> parseInstructions
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> parser
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> printResult
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> printStackTrace
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> println
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> runtime
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> scala
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> scopt
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> stackSize
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> start
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> str
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> stringRead
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> success
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> t
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> text
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> toString
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> tuberlin
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> typedProductIterator
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> uebb
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> validate
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> versionNumber
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> wrapRefArray
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> x$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> x$10
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> x$11
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> x$12
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> x$13
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> x$14
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> x$15
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> x$16
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> x$17
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> x$18
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> x$19
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> x$2
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> x$20
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> x$3
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> x$4
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> x$5
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> x$6
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> x$7
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> x$8
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> x$9
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> ||
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> !=
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> %
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> &
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> &&
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> +
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> -
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> :+
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> <
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> <<
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> <=
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> <init>
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> ==
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> >
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> >=
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> >>
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> AbstractFunction1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> AnyRef
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> Array
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> Boolean
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> ClassTag
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> Count
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> Exception
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> FREE_TAG
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> INT_TAG
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> IndexedSeq
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> Int
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> Integer
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> MachineRuntimeException
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> MemoryManagement
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> NIL
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> None
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> Predef
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> Product
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> Ref
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> RuntimeException
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> ScalaRunTime
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> Serializable
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> String
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> TUPLE_TAG
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> Unit
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> _hashCode
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> alloc
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> allocInt
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> allocTuple
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> apply
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> asInstanceOf
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> by
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> canBuildFrom
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> comp1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> count
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> covm
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> de
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> die
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> eq
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> err
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> foreach
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> fp
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> fp_=
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> gc
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> heap
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> heapSize
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> i
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> immutable
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> instructions
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> intArrayOps
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> intWrapper
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> isInstanceOf
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> java
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> lang
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> lf
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> lfSize
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> map
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> mark
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> marked
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> materializeClassTag
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> mkString
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> next
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> p
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> package
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> pop
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> prev
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> ptr
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> ptrs
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> push
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> realSize
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> refArrayOps
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> reserve
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> runtime
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> s
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> scala
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> showDerefPointer
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> showStackWord
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> size
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> slice
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> sp
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> sp_=
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> sp_old
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> stack
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> stackSize
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> strings
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> sweep
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> tag
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> to
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> toHexString
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> toString
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> tuberlin
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> typedProductIterator
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> uebb
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> until
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> update
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> v
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> while$1
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> while$2
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> while$3
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> while$4
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> width
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> |
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> ||
+product stamps:
+130 items
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\COVM$$anonfun$run$1.class -> lastModified(1423849774070)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\COVM$.class -> lastModified(1423849774055)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\COVM.class -> lastModified(1423849774055)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\DebugDump$.class -> lastModified(1423849774086)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\DebugDump.class -> lastModified(1423849774086)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\DebugLevel.class -> lastModified(1423849774086)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\DebugNone$.class -> lastModified(1423849774102)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\DebugNone.class -> lastModified(1423849774102)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\DebugTrace$.class -> lastModified(1423849774117)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\DebugTrace.class -> lastModified(1423849774102)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseAbort$1.class -> lastModified(1423849774211)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseAbort$2.class -> lastModified(1423849774211)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseAdd$1.class -> lastModified(1423849774211)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseDiv$1.class -> lastModified(1423849774227)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$1.class -> lastModified(1423849774227)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$10.class -> lastModified(1423849774227)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$11.class -> lastModified(1423849774227)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$12.class -> lastModified(1423849774242)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$13.class -> lastModified(1423849774242)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$14.class -> lastModified(1423849774258)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$15.class -> lastModified(1423849774258)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$16.class -> lastModified(1423849774258)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$17.class -> lastModified(1423849774273)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$18.class -> lastModified(1423849774273)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$2.class -> lastModified(1423849774273)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$3.class -> lastModified(1423849774289)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$4.class -> lastModified(1423849774289)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$5.class -> lastModified(1423849774289)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$6.class -> lastModified(1423849774305)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$7.class -> lastModified(1423849774305)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$8.class -> lastModified(1423849774305)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseInst$9.class -> lastModified(1423849774320)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseJgt$1.class -> lastModified(1423849774320)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseJgt$2.class -> lastModified(1423849774320)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseJlt$1.class -> lastModified(1423849774320)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseJlt$2.class -> lastModified(1423849774336)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseJmp$1.class -> lastModified(1423849774336)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseJmp$2.class -> lastModified(1423849774352)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseJz$1.class -> lastModified(1423849774352)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseJz$2.class -> lastModified(1423849774352)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseMul$1.class -> lastModified(1423849774367)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parsePack$1.class -> lastModified(1423849774367)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parsePack$2.class -> lastModified(1423849774367)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parsePush$1.class -> lastModified(1423849774383)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parsePush$2.class -> lastModified(1423849774383)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parsePushAddr$1.class -> lastModified(1423849774383)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parsePushAddr$2.class -> lastModified(1423849774398)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parsePushInt$1.class -> lastModified(1423849774398)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parsePushInt$2.class -> lastModified(1423849774398)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseRet$1.class -> lastModified(1423849774398)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseSlide$1.class -> lastModified(1423849774414)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseSlide$2.class -> lastModified(1423849774414)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseStop$1.class -> lastModified(1423849774414)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseSub$1.class -> lastModified(1423849774430)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseSwap$1.class -> lastModified(1423849774430)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseUnpack$1.class -> lastModified(1423849774430)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$parseUnpack$2.class -> lastModified(1423849774445)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$de$tuberlin$uebb$comp1$covm$InstructionParser$$stringRegex$1.class -> lastModified(1423849774445)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$parseAllInst$1.class -> lastModified(1423849774445)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$parseAllInst$2.class -> lastModified(1423849774445)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser$$anonfun$parseCall$1.class -> lastModified(1423849774461)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\InstructionParser.class -> lastModified(1423849774195)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Abort$.class -> lastModified(1423849774633)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Abort.class -> lastModified(1423849774633)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Add$.class -> lastModified(1423849774664)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Add.class -> lastModified(1423849774664)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Address.class -> lastModified(1423849774680)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Call$.class -> lastModified(1423849774680)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Call.class -> lastModified(1423849774680)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Div$.class -> lastModified(1423849774695)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Div.class -> lastModified(1423849774680)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Instruction.class -> lastModified(1423849774695)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Jgt$.class -> lastModified(1423849774717)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Jgt.class -> lastModified(1423849774695)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Jlt$.class -> lastModified(1423849774723)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Jlt.class -> lastModified(1423849774725)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Jmp$.class -> lastModified(1423849774740)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Jmp.class -> lastModified(1423849774740)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Jz$.class -> lastModified(1423849774803)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Jz.class -> lastModified(1423849774756)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Label$.class -> lastModified(1423849774803)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Label.class -> lastModified(1423849774818)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\LabelledAddress$.class -> lastModified(1423849774818)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\LabelledAddress.class -> lastModified(1423849774834)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Mul$.class -> lastModified(1423849774850)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Mul.class -> lastModified(1423849774850)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Pack$.class -> lastModified(1423849774865)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Pack.class -> lastModified(1423849774881)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Pointer$.class -> lastModified(1423849774896)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Pointer.class -> lastModified(1423849774881)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Push$.class -> lastModified(1423849774896)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Push.class -> lastModified(1423849774912)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\PushAddr$.class -> lastModified(1423849774928)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\PushAddr.class -> lastModified(1423849774912)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\PushInt$.class -> lastModified(1423849774943)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\PushInt.class -> lastModified(1423849774928)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Ret$.class -> lastModified(1423849774943)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Ret.class -> lastModified(1423849774943)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Slide$.class -> lastModified(1423849774959)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Slide.class -> lastModified(1423849774959)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Stop$.class -> lastModified(1423849774975)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Stop.class -> lastModified(1423849774959)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Sub$.class -> lastModified(1423849774975)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Sub.class -> lastModified(1423849774975)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Swap$.class -> lastModified(1423849774990)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Swap.class -> lastModified(1423849774990)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Unpack$.class -> lastModified(1423849774990)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\instructions\Unpack.class -> lastModified(1423849775006)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\Main$$anon$1$$anonfun$1.class -> lastModified(1423849774477)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\Main$$anon$1$$anonfun$2.class -> lastModified(1423849774477)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\Main$$anon$1$$anonfun$3.class -> lastModified(1423849774492)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\Main$$anon$1$$anonfun$4.class -> lastModified(1423849774492)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\Main$$anon$1$$anonfun$5.class -> lastModified(1423849774492)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\Main$$anon$1$$anonfun$6.class -> lastModified(1423849774508)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\Main$$anon$1$$anonfun$7.class -> lastModified(1423849774508)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\Main$$anon$1.class -> lastModified(1423849774477)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\Main$$anonfun$main$1.class -> lastModified(1423849774508)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\Main$$anonfun$main$2.class -> lastModified(1423849774523)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\Main$.class -> lastModified(1423849774461)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\Main$Options$.class -> lastModified(1423849774539)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\Main$Options.class -> lastModified(1423849774539)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\Main.class -> lastModified(1423849774461)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\MemoryManagement$$anonfun$1.class -> lastModified(1423849774570)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\MemoryManagement$$anonfun$2.class -> lastModified(1423849774586)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\MemoryManagement$$anonfun$mark$1.class -> lastModified(1423849774586)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\MemoryManagement$$anonfun$showHeapPlain$1.class -> lastModified(1423849774602)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\MemoryManagement$$anonfun$showStackPlain$1.class -> lastModified(1423849774602)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\MemoryManagement$MachineRuntimeException$.class -> lastModified(1423849774617)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\MemoryManagement$MachineRuntimeException.class -> lastModified(1423849774617)
+E:\Exercise\MOCTemplate and COVM\COVM\target\scala-2.11\classes\de\tuberlin\uebb\comp1\covm\MemoryManagement.class -> lastModified(1423849774570)
+source stamps:
+5 items
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> hash(e5421f5dd3c74eab8d2ba5b3620bc2e9fbbfd897)
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> hash(f7604b3490413a7dabc4d58a73f131edbc914d42)
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> hash(711bb02397a60e8c4f74e9e27b5fa29c9562b124)
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> hash(4a9a105784ebfdb68d3f42f32d65b961eb575e81)
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> hash(ea0425e6dd82c3c51bd2ba81d09ec9ed8fe58394)
+binary stamps:
+4 items
+C:\Users\liuyu_000\.ivy2\cache\com.github.scopt\scopt_2.11\jars\scopt_2.11-3.2.0.jar -> lastModified(1397789858000)
+C:\Users\liuyu_000\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\bundles\scala-parser-combinators_2.11-1.0.2.jar -> lastModified(1406097935000)
+C:\Users\liuyu_000\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar -> lastModified(1406097530000)
+D:\Program Files\Java\jre1.8.0_25\lib\rt.jar -> lastModified(1414880568293)
+class names:
+4 items
+C:\Users\liuyu_000\.ivy2\cache\com.github.scopt\scopt_2.11\jars\scopt_2.11-3.2.0.jar -> scopt.OptionParser
+C:\Users\liuyu_000\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\bundles\scala-parser-combinators_2.11-1.0.2.jar -> scala.util.parsing.combinator.Parsers
+C:\Users\liuyu_000\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar -> scala.Serializable
+D:\Program Files\Java\jre1.8.0_25\lib\rt.jar -> java.lang.Object
+internal apis:
+5 items
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBjDfWnAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAVnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cD4sfKp0AAZub3RpZnlzcQB+AAyYZPogdAAHdW5hcHBseXNxAH4ADPJGc3B0AAlzdGFja1NpemVzcQB+AAwhwTSkdAAPcHJpbnRTdGFja1RyYWNlc3EAfgAMWAAF5XQAE2dldExvY2FsaXplZE1lc3NhZ2VzcQB+AAyUcfNvdAAEd2FpdHNxAH4ADOaT25B0AA1zaG93SGVhcFBsYWluc3EAfgAMydcfIHQAB3Jlc2VydmVzcQB+AAyRPjK0dAAIaGVhcFNpemVzcQB+AAyPMCt8dAANJGFzSW5zdGFuY2VPZnNxAH4ADP8hiih0AAVhbGxvY3NxAH4ADEyVI1V0AAdjb21wb3Nlc3EAfgAM4aiJ9XQAB0lOVF9UQUdzcQB+AAyFy8mYdAAOc2hvd1N0YWNrUGxhaW5zcQB+AAzeEbi1dAADcG9wc3EAfgAMmvYHZnQACmFsbG9jVHVwbGVzcQB+AAwI9zYndAAMcHJvZHVjdEFyaXR5c3EAfgAMgN3jr3QABXN3ZWVwc3EAfgAMfFS3xnQABmVxdWFsc3NxAH4ADF2QdwB0AAlnZXRSZXN1bHRzcQB+AAx6b1lCdAAQZmlsbEluU3RhY2tUcmFjZXNxAH4ADFrJ8t10AAlpbml0Q2F1c2VzcQB+AAzysXondAAMYXNJbnN0YW5jZU9mc3EAfgAMNQr0ynQADXVud3JhcFBvaW50ZXJzcQB+AAxc5uH3dAADcnVuc3EAfgAMHXCvoHQABHB1c2hzcQB+AAxORvaydAAMc3luY2hyb25pemVkc3EAfgAMIyHNVnQADSRpc0luc3RhbmNlT2ZzcQB+AAxWlPjgdAAHYW5kVGhlbnNxAH4ADD69Pyp0AAhnZXRDYXVzZXNxAH4ADF3tXjJ0AAhjYW5FcXVhbHNxAH4ADNHYwMl0AA1wcm9kdWN0UHJlZml4c3EAfgAMvHFMYnQACW5vdGlmeUFsbHNxAH4ADIrQcJt0AAtyZWFkUmVzb2x2ZXNxAH4ADLz9rRJ0AAxpc0luc3RhbmNlT2ZzcQB+AAy2w4ykdAANZ2V0U3RhY2tUcmFjZXNxAH4ADGVjK5t0ABRnZXRTdGFja1RyYWNlRWxlbWVudHNxAH4ADMtwwCt0AANkaWVzcQB+AAxfSYzrdAAGPGluaXQ+c3EAfgAMDzT8iXQABnBvcEludHNxAH4ADFTl2vJ0AAVDb3VudHNxAH4ADLOyf7x0AANOSUxzcQB+AAyySrp/dAAKZ2V0TWVzc2FnZXNxAH4ADPZEbuB0AA1zZXRTdGFja1RyYWNlc3EAfgAMgZ3wG3QABWFwcGx5c3EAfgAMmK7qEnQADWdldFN1cHByZXNzZWRzcQB+AAwuJ1pNdAAJRGVidWdEdW1wc3EAfgAM6+56MnQACEZSRUVfVEFHc3EAfgAMchPUDHQABENPVk1zcQB+AAy/bZ5XdAACPT1zcQB+AAzAJp3jdAAIYWxsb2NJbnRzcQB+AAxPzUlfdAASZ2V0U3RhY2tUcmFjZURlcHRoc3EAfgAM+bL5snQAFnNob3dDdXJyZW50SW5zdHJ1Y3Rpb25zcQB+AAxQQWPEdAAFY2xvbmVzcQB+AAxc1cc0dAAKRGVidWdUcmFjZXNxAH4ADJJOclR0AA1hZGRTdXBwcmVzc2Vkc3EAfgAM2QxiO3QAAmdjc3EAfgAMHG4hJnQABXN0YWNrc3EAfgAMqKDgdnQAF01hY2hpbmVSdW50aW1lRXhjZXB0aW9uc3EAfgAMdk0DFXQACWR1bXBTdGF0ZXNxAH4ADG/HPMt0AARjb3B5c3EAfgAMmUxP6XQACHRvU3RyaW5nc3EAfgAMUYfbpHQACnRyYWNlU3RhdGVzcQB+AAxBJ+3QdAADZXJyc3EAfgAMlhF9vXQAEHNob3dEZXJlZlBvaW50ZXJzcQB+AAx1Ux+BdAACIT1zcQB+AAyhkA/TdAAIZ2V0Q2xhc3NzcQB+AAw+34eUdAANc2hvd1N0YWNrV29yZHNxAH4ADEDzI0Z0AARoZWFwc3EAfgAMAaZKYnQADmNvcHkkZGVmYXVsdCQxc3EAfgAMpB3Dd3QABG1hcmtzcQB+AAz/y38wdAAJRGVidWdOb25lc3EAfgAM51rHlXQABXN0YXJ0c3EAfgAMkLgdFHQAAnNwc3EAfgAMPkuC7HQAAm5lc3EAfgAM7wgvCHQACVRVUExFX1RBR3NxAH4ADEXexrx0AAlzaG93U3RhY2tzcQB+AAybCBebdAAKRGVidWdMZXZlbHNxAH4ADDwxAbx0AAJlcXNxAH4ADGJ+TYp0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAz7TPlEdAACIyNzcQB+AAzm93yWdAAIZmluYWxpemVzcQB+AAz7ffZddAADUmVmc3EAfgAMfQ56VHQADnByb2R1Y3RFbGVtZW50c3EAfgAMY2x6v3QACGhhc2hDb2Rlc3EAfgAMb7WiJ3QAC3ByaW50UmVzdWx0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAABXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Aw3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwCXQAJmRlLnR1YmVybGluLnVlYmIuY29tcDEuY292bS5EZWJ1Z0xldmVsdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgDceHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3E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AfgD4c3EAfgD7dXEAfgD+AAAAAnNxAH4BAHEAfgEOcQB+AQd1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABBkZS50dWJlcmxpbi51ZWJic3EAfgHudAALZGUudHViZXJsaW5zcQB+Ae50ABZkZS50dWJlcmxpbi51ZWJiLmNvbXAxc3EAfgHudAAbZGUudHViZXJsaW4udWViYi5jb21wMS5jb3Ztc3EAfgHudAACZGVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUuEDyFBdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAP0U6XEV4ZXJjaXNlXE1PQ1RlbXBsYXRlIGFuZCBDT1ZNXENPVk1cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFOVCH13Tx06rjSuls2ILwun7v9iX
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDbzZE+AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAADc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwFTAfWHQAB2xpdGVyYWxzcQB+AAuHTtzMdAAGYWNjZXB0c3EAfgALqYoIo3QABXJlZ2V4dXEAfgAJAAAAh3NxAH4AC21IV0V0ABB3aXRoRXJyb3JNZXNzYWdlc3EAfgAL8QKZOHQACndpdGhGaWx0ZXJzcQB+AAuByOVTdAACXl5zcQB+AAuUwO6IdAAPZmxhdE1hcFdpdGhOZXh0c3EAfgALMYUDwnQABm5vdGlmeXNxAH4ACx+EDYN0AAdmYWlsdXJlc3EAfgALxhrF3XQAB3VuYXBwbHlzcQB+AAvzclJWdAAIcGFyc2VEaXZzcQB+AAt8pubAdAAIcGFyc2VBZGRzcQB+AAundoM9dAAHY3VycmllZHNxAH4AC0zg6ut0AAhwYXJzZUpndHNxAH4AC/Ze7wp0AApwYXJzZUFib3J0c3EAfgALo3CoInQADXBhcnNlUHVzaEFkZHJzcQB+AAvY+FbkdAAEbmFtZXNxAH4AC4rBVPR0AAN8fHxzcQB+AAvjZ+NqdAAHc3VjY2Vzc3NxAH4AC6GqMlN0AAR3YWl0c3E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0AANnZXRzcQB+AAvjTUZ7dAASd2l0aEZhaWx1cmVNZXNzYWdlc3EAfgALuynWqHQACGdldENsYXNzc3EAfgALVvSOdXQABWd1YXJkc3EAfgALUW3PDXQADmNvcHkkZGVmYXVsdCQxc3EAfgALetjYp3QAB2NoYWlubDFzcQB+AAve7SekdAAGUGFyc2Vyc3EAfgALo0hUMnQAB1N1Y2Nlc3NzcQB+AAt2GYtTdAADcmVwc3EAfgALzlRJ53QACXBhcnNlSW5zdHNxAH4AC/iu7np0AAdpc0VtcHR5c3EAfgALBeLjz3QAAm5lc3EAfgALhMpsz3QAAjx+c3EAfgAL63NWonQACnBhcnNlU2xpZGVzcQB+AAsmNqDPdAALcGFyc2VVbnBhY2tzcQB+AAvy0tgCdAABfnNxAH4AC9Aln8F0AApPbmNlUGFyc2Vyc3EAfgALxq8zW3QABGVsZW1zcQB+AAu8LJgRdAAJYWNjZXB0U2Vxc3EAfgALnhSQI3QAAmVxc3EAfgALCYO9HHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4AC8nUEe90AANsb2dzcQB+AAuYe+5adAAGcmVwc2Vwc3EAfgALR04w9XQAAn4hc3EAfgALMKeshHQAAiMjc3EAfgALGjvPDHQACGZpbmFsaXplc3EAfgAL/WlV+nQADnByb2R1Y3RFbGVtZW50c3EAfgAL7JMYtHQACGhhc2hDb2Rlc3EAfgALIdREd3QAB2NoYWlucjFzcQB+AAsHcYfSdAAGYXBwZW5kc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4BK3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQALWRlLnR1YmVybGluLnVlYmIuY29tcDEuY292bS5JbnN0cnVjdGlvblBhcnNlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAGnNjYWxhLmFubm90YXRpb24ubWlncmF0aW9uc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgFFeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgFEAHBzcQB+AUlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4BK0wACWluaGVyaXRlZHEAfgErTAAHcGFyZW50c3EAfgEreHEAfgFNc3EAfgFEAHBzcQB+AUl1cQB+ASYAAAAAc3EAfgFEAHBzcQB+AUl1cQB+ASYAAAAAc3EAfgFEAHBzcQB+AUl1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AUx0AAxSZWdleFBhcnNlcnNzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AUxzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAVzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3EAfgFpdAAEdXRpbHNxAH4BaXQAB3BhcnNpbmdzcQB+AWl0AApjb21iaW5hdG9yc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AWpzcQB+AV10AAdQYXJzZXJzcQB+AWNzcQB+AV10AAZPYmplY3RzcQB+AWFzcQB+AWR1cQB+AWcAAAADc3EAfgFpdAAEamF2YXNxAH4BaXQABGxhbmdxAH4BdHNxAH4BXXQAA0FueXNxAH4BYXNxAH4BZHVxAH4BZwAAAAJzcQB+AWlxAH4BbHEAfgF0dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAVzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAQZGUudHViZXJsaW4udWViYnNxAH4BiHQAC2RlLnR1YmVybGluc3EAfgGIdAAWZGUudHViZXJsaW4udWViYi5jb21wMXNxAH4BiHQAG2RlLnR1YmVybGluLnVlYmIuY29tcDEuY292bXNxAH4BiHQAAmRlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFLhA8hQXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AD9FOlxFeGVyY2lzZVxNT0NUZW1wbGF0ZSBhbmQgQ09WTVxDT1ZNXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT3YEs0kEE6favE1Ypz8THtvJFNQg==
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDCVBEZAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAOXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHl/Ytl0AAZub3RpZnlzcQB+AAzdX5HadAABc3NxAH4ADKOUPHd0AANKZ3RzcQB+AAy3BXb0dAAHUHVzaEludHNxAH4ADNWoK+p0AAR3YWl0c3EAfgAMA9CtMnQADSRhc0luc3RhbmNlT2ZzcQB+AAw8LlF1dAAGVW5wYWNrc3EAfgAMDOO3LHQAAW5zcQB+AAwhUL1RdAAMcHJvZHVjdEFyaXR5c3EAfgAMHBzcB3QABmVxdWFsc3NxAH4ADBpTLlB0AARTd2Fwc3EAfgAMtjKYjHQAB0FkZHJlc3NzcQB+AAye1bqzdAADQWRkc3EAfgAMyAzgInQADGFzSW5zdGFuY2VPZnNxAH4ADFrvBAx0AAxzeW5jaHJvbml6ZWRzcQB+AAyPkGjbdAAEUGFja3NxAH4ADOY+fUx0AAFhc3EAfgAMGfulnXQADSRpc0luc3RhbmNlT2ZzcQB+AAx53jrydAAIY2FuRXF1YWxzcQB+AAwcH+ZxdAADTXVsc3EAfgAMbfDuCnQADXByb2R1Y3RQcmVmaXhzcQB+AAyXy/njdAAEUHVzaHNxAH4ADGRDZst0AAFpc3EAfgAMvAiFvHQACW5vdGlmeUFsbHNxAH4ADD9Ffad0AAtyZWFkUmVzb2x2ZXNxAH4ADLqjHqx0AAxpc0luc3RhbmNlT2ZzcQB+AAw6XPEodAADSmx0c3EAfgAMiO7pUHQABjxpbml0PnNxAH4ADLDSZYN0AAhQdXNoQWRkcnNxAH4ADGL0fOp0AAVMYWJlbHNxAH4ADMI5Lp50AAI9PXNxAH4ADJ5j1250AANSZXRzcQB+AAz7+GMNdAAFY2xvbmVzcQB+AAyG4RuVdAABcHNxAH4ADLYh23N0AAdQb2ludGVyc3EAfgAMoVomHXQAA1N1YnNxAH4ADFGwIUF0AARjb3B5c3EAfgAMAUX3VXQABVNsaWRlc3EAfgAMYUT6+nQACHRvU3RyaW5nc3EAfgAMoYdLvnQAA0ptcHNxAH4ADAG36gF0AAIhPXNxAH4ADNTKSVF0AA9MYWJlbGxlZEFkZHJlc3NzcQB+AAwCltE+dAAIZ2V0Q2xhc3NzcQB+AAw9Hu6adAAFQWJvcnRzcQB+AAwKFzJndAAOY29weSRkZWZhdWx0JDFzcQB+AAzam6JtdAACSnpzcQB+AAygRWiadAALSW5zdHJ1Y3Rpb25zcQB+AAxGonhydAAEU3RvcHNxAH4ADDTicyd0AAJuZXNxAH4ADNghgtd0AARDYWxsc3EAfgAM92okQXQAAmVxc3EAfgAMYA/HdHQAA0RpdnNxAH4ADMVV6KR0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAxiCPMvdAACIyNzcQB+AAx6iXVNdAAIZmluYWxpemVzcQB+AAwFq8nedAAOcHJvZHVjdEVsZW1lbnRzcQB+AAxPyF6cdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAYc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAJdAA0ZGUudHViZXJsaW4udWViYi5jb21wMS5jb3ZtLmluc3RydWN0aW9ucy5JbnN0cnVjdGlvbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3R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AAmRlc3EAfgDGdAAIdHViZXJsaW5zcQB+AMZ0AAR1ZWJic3EAfgDGdAAFY29tcDFzcQB+AMZ0AARjb3Ztc3EAfgDGdAAMaW5zdHJ1Y3Rpb25zcQB+AM1zcQB+ALpxAH4AvXNxAH4AvnNxAH4AwXVxAH4AxAAAAANzcQB+AMZxAH4AyXNxAH4AxnEAfgDLcQB+AM1zcQB+ALpxAH4Az3EAfgEpc3EAfgCGcQB+AJN1cQB+AJQAAAAAc3EAfgCWAHQAMGRlLnR1YmVybGluLnVlYmIuY29tcDEuY292bS5pbnN0cnVjdGlvbnMuUHVzaEludHVxAH4AmQAAAABxAH4AnXVxAH4AnwAAAABzcQB+AKEAcHNxAH4ApnEAfgCrc3EAfgChAHBzcQB+AKZzcQB+AK5zcQB+AKEAcHNxAH4ApnVxAH4AhAAAAABzcQB+AKEAcHNxAH4ApnVxAH4AhAAAAABzcQB+AKEAcHNxAH4ApnVxAH4AuAAAAAdzcQB+ALpxAH4A7HNxAH4AvnNxAH4AwXVxAH4AxAAAAAJzcQB+AMZxAH4A1HEAfgDNc3EAfgC6cQB+AOxzcQB+AL5zcQB+AMF1cQB+AMQAAAADc3EAfgDGcQB+AMlzcQB+AMZ0AAJpb3EAfgDNc3EAfgC6cQB+APlxAH4BZHNxAH4AunQABkVxdWFsc3EAfgFkc3EAfgC6dAALSW5zdHJ1Y3Rpb25zcQB+AL5zcQB+AMF1cQB+AMQAAAAHc3EAfgDGdAACZGVzcQB+AMZ0AAh0dWJlcmxpbnNxAH4AxnQABHVlYmJzcQB+AMZ0AAVjb21wMXNxAH4AxnQABGNvdm1zcQB+AMZ0AAxpbnN0cnVjdGlvbnNxAH4AzXNxAH4AunEAfgC9c3EAfgC+c3EAfgDBdXEAfgDEAAAAA3NxAH4AxnEAfgDJc3EAfgDGcQB+AMtxAH4AzXNxAH4AunEAfgDPcQB+AWRzcQB+AIZxAH4Ak3VxAH4AlAAAAABzcQB+AJYAdAAxZGUudHViZXJsaW4udWViYi5jb21wMS5jb3ZtLmluc3RydWN0aW9ucy5QdXNoQWRkcnVxAH4AmQAAAABxAH4AnXVxAH4AnwAAAABzcQB+AKEAcHNxAH4ApnEAfgCrc3EAfgChAHBzcQB+AKZzcQB+AK5zcQB+AKEAcHNxAH4ApnVxAH4AhAAAAABzcQB+AKEAcHNxAH4ApnVxAH4AhAAAAABzcQB+AKEAcHNxAH4ApnVxAH4AuAAAAAdzcQB+ALpxAH4A7HNxAH4AvnNxAH4AwXVxAH4AxAAAAAJzcQB+AMZxAH4A1HEAfgDNc3EAfgC6cQB+AOxzcQB+AL5zcQB+AMF1cQB+AMQAAAADc3EAfgDGcQB+AMlzcQB+AMZ0AAJpb3EAfgDNc3EAfgC6cQB+APlxAH4Bn3NxAH4AunQABkVxdWFsc3EAfgGfc3EAfgC6dAALSW5zdHJ1Y3Rpb25zcQB+AL5zcQB+AMF1cQB+AMQAAAAHc3EAfgDGdAACZGVzcQB+AMZ0AAh0dWJlcmxpbnNxAH4AxnQABHVlYmJzcQB+AMZ0AAVjb21wMXNxAH4AxnQABGNvdm1zcQB+AMZ0AAxpbnN0cnVjdGlvbnNxAH4AzXNxAH4AunEAfgC9c3EAfgC+c3EAfgDBdXEAfgDEAAAAA3NxAH4AxnEAfgDJc3EAfgDGcQB+AMtxAH4AzXNxAH4AunEAfgDPcQB+AZ9zcQB+AIZxAH4Ak3VxAH4AlAAAAABzcQB+AJYAdAAtZGUudHViZXJsaW4udWViYi5jb21wMS5jb3ZtLmluc3RydWN0aW9ucy5QdXNodXEAfgCZAAAAAHEAfgCddXEAfgCfAAAAAHNxAH4AoQBwc3EAfgCmcQB+AKtzcQB+AKEAcHNxAH4ApnNxAH4ArnNxAH4AoQBwc3EAfgCmdXEAfgCEAAAAAHNxAH4AoQBwc3EAfgCmdXEAfgCEAAAAAHNxAH4AoQBwc3EAfgCmdXEAfgC4AAAAB3NxAH4AunEAfgDsc3EAfgC+c3EAfgDBdXEAfgDEAAAAAnNxAH4AxnEAfgDUcQB+AM1zcQB+ALpxAH4A7HNxAH4AvnNxAH4AwXVxAH4AxAAAAANzcQB+AMZxAH4AyXNxAH4AxnQAAmlvcQB+AM1zcQB+ALpxAH4A+XEAfgHac3EAfgC6dAAGRXF1YWxzcQB+AdpzcQB+ALp0AAtJbnN0cnVjdGlvbnNxAH4AvnNxAH4AwXVxAH4AxAAAAAdzcQB+AMZ0AAJkZXNxAH4AxnQACHR1YmVybGluc3EAfgDGdAAEdWViYnNxAH4AxnQABWNvbXAxc3EAfgDGdAAEY292bXNxAH4AxnQADGluc3RydWN0aW9uc3EAfgDNc3EAfgC6cQB+AL1zcQB+AL5zcQB+AMF1cQB+AMQAAAADc3EAfgDGcQB+AMlzcQB+AMZxAH4Ay3EAfgDNc3EAfgC6cQB+AM9xAH4B2nNxAH4AhnEAfgCTdXEAfgCUAAAAAHNxAH4AlgB0AC5kZS50dWJlcmxpbi51ZWJiLmNvbXAxLmNvdm0uaW5zdHJ1Y3Rpb25zLlNsaWRldXEAfgCZAAAAAHEAfgCddXEAfgCfAAAAAHNxAH4AoQBwc3EAfgCmcQB+AKtzcQB+AKEAcHNxAH4ApnNxAH4ArnNxAH4AoQBwc3EAfgCmdXEAfgCEAAAAAHNxAH4AoQBwc3EAfgCmdXEAfgCEAAAAAHNxAH4AoQBwc3EAfgCmdXEAfgC4AAAAB3NxAH4AunEAfgDsc3EAfgC+c3EAfgDBdXEAfgDEAAAAAnNxAH4AxnEAfgDUcQB+AM1zcQB+ALpxAH4A7HNxAH4AvnNxAH4AwXVxAH4AxAAAAANzcQB+AMZxAH4AyXNxAH4AxnQAAmlvcQB+AM1zcQB+ALpxAH4A+XEAfgIVc3EAfgC6dAAGRXF1YWxzcQB+AhVzcQB+ALp0AAtJbnN0cnVjdGlvbnNxAH4AvnNxAH4AwXVxAH4AxAAAAAdzcQB+AMZ0AAJkZXNxAH4AxnQACHR1YmVybGluc3EAfgDGdAAEdWViYnNxAH4AxnQABWNvbXAxc3EAfgDGdAAEY292bXNxAH4AxnQADGluc3RydWN0aW9uc3EAfgDNc3EAfgC6cQB+AL1zcQB+AL5zcQB+AMF1cQB+AMQAAAADc3EAfgDGcQB+AMlzcQB+AMZxAH4Ay3EAfgDNc3EAfgC6cQB+AM9xAH4CFXNxAH4AhnEAfgCTdXEAfgCUAAAAAHNxAH4AlgB0AC1kZS50dWJlcmxpbi51ZWJiLmNvbXAxLmNvdm0uaW5zdHJ1Y3Rpb25zLlN3YXB1cQB+AJkAAAAAcQB+ANp1cQB+AJ8AAAAAc3EAfgChAHBzcQB+AKZxAH4Aq3NxAH4AoQBwc3EAfgCmc3EAfgCuc3EAfgChAHBzcQB+AKZ1cQB+AIQAAAAAc3EAfgChAHBzcQB+AKZ1cQB+AIQAAAAAc3EAfgChAHBzcQB+AKZ1cQB+ALgAAAAHc3EAfgC6cQB+AOxzcQB+AL5zcQB+AMF1cQB+AMQAAAACc3EAfgDGcQB+ANRxAH4AzXNxAH4AunEAfgDsc3EAfgC+c3EAfgDBdXEAfgDEAAAAA3NxAH4AxnEAfgDJc3EAfgDGdAACaW9xAH4AzXNxAH4AunEAfgD5cQB+AlBzcQB+ALp0AAZFcXVhbHNxAH4CUHNxAH4AunQAC0luc3RydWN0aW9uc3EAfgC+c3EAfgDBdXEAfgDEAAAAB3NxAH4AxnQAAmRlc3EAfgDGdAAIdHViZXJsaW5zcQB+AMZ0AAR1ZWJic3EAfgDGdAAFY29tcDFzcQB+AMZ0AARjb3Ztc3EAfgDGdAAMaW5zdHJ1Y3Rpb25zcQB+AM1zcQB+ALpxAH4AvXNxAH4AvnNxAH4AwXVxAH4AxAAAAANzcQB+AMZxAH4AyXNxAH4AxnEAfgDLcQB+AM1zcQB+ALpxAH4Az3EAfgJQc3EAfgCGcQB+AJN1cQB+AJQAAAAAc3EAfgCWAHQALGRlLnR1YmVybGluLnVlYmIuY29tcDEuY292bS5pbnN0cnVjdGlvbnMuQWRkdXEAfgCZAAAAAHEAfgDadXEAfgCfAAAAAHNxAH4AoQBwc3EAfgCmcQB+AKtzcQB+AKEAcHNxAH4ApnNxAH4ArnNxAH4AoQBwc3EAfgCmdXEAfgCEAAAAAHNxAH4AoQBwc3EAfgCmdXEAfgCEAAAAAHNxAH4AoQBwc3EAfgCmdXEAfgC4AAAAB3NxAH4AunEAfgDsc3EAfgC+c3EAfgDBdXEAfgDEAAAAAnNxAH4AxnEAfgDUcQB+AM1zcQB+ALpxAH4A7HNxAH4AvnNxAH4AwXVxAH4AxAAAAANzcQB+AMZxAH4AyXNxAH4AxnQAAmlvcQB+AM1zcQB+ALpxAH4A+XEAfgKLc3EAfgC6dAAGRXF1YWxzcQB+AotzcQB+ALp0AAtJbnN0cnVjdGlvbnNxAH4AvnNxAH4AwXVxAH4AxAAAAAdzcQB+AMZ0AAJkZXNxAH4AxnQACHR1YmVybGluc3EAfgDGdAAEdWViYnNxAH4AxnQABWNvbXAxc3EAfgDGdAAEY292bXNxAH4AxnQADGluc3RydWN0aW9uc3EAfgDNc3EAfgC6cQB+AL1zcQB+AL5zcQB+AMF1cQB+AMQAAAADc3EAfgDGcQB+AMlzcQB+AMZxAH4Ay3EAfgDNc3EAfgC6cQB+AM9xAH4Ci3NxAH4AhnEAfgCTdXEAfgC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+AKZxAH4Aq3NxAH4AoQBwc3EAfgCmc3EAfgCuc3EAfgChAHBzcQB+AKZ1cQB+AIQAAAAAc3EAfgChAHBzcQB+AKZ1cQB+AIQAAAAAc3EAfgChAHBzcQB+AKZ1cQB+ALgAAAAHc3EAfgC6cQB+AOxzcQB+AL5zcQB+AMF1cQB+AMQAAAACc3EAfgDGcQB+ANRxAH4AzXNxAH4AunEAfgDsc3EAfgC+c3EAfgDBdXEAfgDEAAAAA3NxAH4AxnEAfgDJc3EAfgDGdAACaW9xAH4AzXNxAH4AunEAfgD5cQB+A3dzcQB+ALp0AAZFcXVhbHNxAH4Dd3NxAH4AunQAC0luc3RydWN0aW9uc3EAfgC+c3EAfgDBdXEAfgDEAAAAB3NxAH4AxnQAAmRlc3EAfgDGdAAIdHViZXJsaW5zcQB+AMZ0AAR1ZWJic3EAfgDGdAAFY29tcDFzcQB+AMZ0AARjb3Ztc3EAfgDGdAAMaW5zdHJ1Y3Rpb25zcQB+AM1zcQB+ALpxAH4AvXNxAH4AvnNxAH4AwXVxAH4AxAAAAANzcQB+AMZxAH4AyXNxAH4AxnEAfgDLcQB+AM1zcQB+ALpxAH4Az3EAfgN3c3EAfgCGcQB+AJN1cQB+AJQAAAAAc3EAfgCWAHQAL2RlLnR1YmVybGluLnVlYmIuY29tcDEuY292bS5pbnN0cnVjdGlvbnMuVW5wYWNrdXEAfgCZAAAAAHEAfgCddXEAfgCfAAAAAHNxAH4AoQBwc3EAfgCmcQB+AKtzcQB+AKEAcHNxAH4ApnNxAH4ArnNxAH4AoQBwc3EAfgCmdXEAfgCEAAAAAHNxAH4AoQBwc3EAfgCmdXEAfgCEAAAAAHNxAH4AoQBwc3EAfgCmdXEAfgC4AAAAB3NxAH4AunEAfgDsc3EAfgC+c3EAfgDBdXEAfgDEAAAAAnNxAH4AxnEAfgDUcQB+AM1zcQB+ALpxAH4A7HNxAH4AvnNxAH4AwXVxAH4AxAAAAANzcQB+AMZxAH4AyXNxAH4AxnQAAmlvcQB+AM1zcQB+ALpxAH4A+XEAfgOyc3EAfgC6dAAGRXF1YWxzcQB+A7JzcQB+ALp0AAtJbnN0cnVjdGlvbnNxAH4AvnNxAH4AwXVxAH4AxAAAAAdzcQB+AMZ0AAJkZXNxAH4AxnQACHR1YmVybGluc3EAfgDGdAAEdWViYnNxAH4AxnQABWNvbXAxc3EAfgDGdAAEY292bXNxAH4AxnQADGluc3RydWN0aW9uc3EAfgDNc3EAfgC6cQB+AL1zcQB+AL5zcQB+AMF1cQB+AMQAAAADc3EAfgDGcQB+AMlzcQB+AMZxAH4Ay3EAfgDNc3EAfgC6cQB+AM9xAH4DsnNxAH4AhnEAfgCTdXEAfgCUAAAAAHNxAH4AlgB0ACxkZS50dWJlcmxpbi51ZWJiLmNvbXAxLmNvdm0uaW5zdHJ1Y3Rpb25zLkptcHVxAH4AmQAAAABxAH4AnXVxAH4AnwAAAABzcQB+AKEAcHNxAH4ApnEAfgCrc3EAfgChAHBzcQB+AKZzcQB+AK5zcQB+AKEAcHNxAH4ApnVxAH4AhAAAAABzcQB+AKEAcHNxAH4ApnVxAH4AhAAAAABzcQB+AKEAcHNxAH4ApnVxAH4AuAAAAAdzcQB+ALpxAH4A7HNxAH4AvnNxAH4AwXVxAH4AxAAAAAJzcQB+AMZxAH4A1HEAfgDNc3EAfgC6cQB+AOxzcQB+AL5zcQB+AMF1cQB+AMQAAAADc3EAfgDGcQB+AMlzcQB+AMZ0AAJpb3EAfgDNc3EAfgC6cQB+APlxAH4D7XNxAH4AunQABkVxdWFsc3EAfgPtc3EAfgC6dAALSW5zdHJ1Y3Rpb25zcQB+AL5zcQB+AMF1cQB+AMQAAAAHc3EAfgDGdAACZGVzcQB+AMZ0AAh0dWJlcmxpbnNxAH4AxnQABHVlYmJzcQB+AMZ0AAVjb21wMXNxAH4AxnQABGNvdm1zcQB+AMZ0AAxpbnN0cnVjdGlvbnNxAH4AzXNxAH4AunEAfgC9c3EAfgC+c3EAfgDBdXEAfgDEAAAAA3NxAH4AxnEAfgDJc3EAfgDGcQB+AMtxAH4AzXNxAH4AunEAfgDPcQB+A+1zcQB+AIZxAH4Ak3VxAH4AlAAAAABzcQB+AJYAdAArZGUudHViZXJsaW4udWViYi5jb21wMS5jb3ZtLmluc3RydWN0aW9ucy5KenVxAH4AmQAAAABxAH4AnXVxAH4AnwAAAABzcQB+AKEAcHNxAH4ApnEAfgCrc3EAfgChAHBzcQB+AKZzcQB+AK5zcQB+AKEAcHNxAH4ApnVxAH4AhAAAAABzcQB+AKEAcHNxAH4ApnVxAH4AhAAAAABzcQB+AKEAcHNxAH4ApnVxAH4AuAAAAAdzcQB+ALpxAH4A7HNxAH4AvnNxAH4AwXVxAH4AxAAAAAJzcQB+AMZxAH4A1HEAfgDNc3EAfgC6cQB+AOxzcQB+AL5zcQB+AMF1cQB+AMQAAAADc3EAfgDGcQB+AMlzcQB+AMZ0AAJpb3EAfgDNc3EAfgC6cQB+APlxAH4EKHNxAH4AunQABkVxdWFsc3EAfgQoc3EAfgC6dAALSW5zdHJ1Y3Rpb25zcQB+AL5zcQB+AMF1cQB+AMQAAAAHc3EAfgDGdAACZGVzcQB+AMZ0AAh0dWJlcmxpbnNxAH4AxnQABHVlYmJzcQB+AMZ0AAVjb21wMXNxAH4AxnQABGNvdm1zcQB+AMZ0AAxpbnN0cnVjdGlvbnNxAH4AzXNxAH4AunEAfgC9c3EAfgC+c3EAfgDBdXEAfgDEAAAAA3NxAH4AxnEAfgDJc3EAfgDGcQB+AMtxAH4AzXNxAH4AunEAfgDPcQB+BChzcQB+AIZxAH4Ak3VxAH4AlAAAAABzcQB+AJYAdAAsZGUudHViZXJsaW4udWViYi5jb21wMS5jb3ZtLmluc3RydWN0aW9ucy5KbHR1cQB+AJkAAAAAcQB+AJ11cQB+AJ8AAAAAc3EAfgChAHBzcQB+AKZxAH4Aq3NxAH4AoQBwc3EAfgCmc3EAfgCuc3EAfgChAHBzcQB+AKZ1cQB+AIQAAAAAc3EAfgChAHBzcQB+AKZ1cQB+AIQAAAAAc3EAfgChAHBzcQB+AKZ1cQB+ALgAAAAHc3EAfgC6cQB+AOxzcQB+AL5zcQB+AMF1cQB+AMQAAAACc3EAfgDGcQB+ANRxAH4AzXNxAH4AunEAfgDsc3EAfgC+c3EAfgDBdXEAfgDEAAAAA3NxAH4AxnEAfgDJc3EAfgDGdAACaW9xAH4AzXNxAH4AunEAfgD5cQB+BGNzcQB+ALp0AAZFcXVhbHNxAH4EY3NxAH4AunQAC0luc3RydWN0aW9uc3EAfgC+c3EAfgDBdXEAfgDEAAAAB3NxAH4AxnQAAmRlc3EAfgDGdAAIdHViZXJsaW5zcQB+AMZ0AAR1ZWJic3EAfgDGdAAFY29tcDFzcQB+AMZ0AARjb3Ztc3EAfgDGdAAMaW5zdHJ1Y3Rpb25zcQB+AM1zcQB+ALpxAH4AvXNxAH4AvnNxAH4AwXVxAH4AxAAAAANzcQB+AMZxAH4AyXNxAH4AxnEAfgDLcQB+AM1zcQB+ALpxAH4Az3EAfgRjc3EAfgCGcQB+AJN1cQB+AJQAAAAAc3EAfgCWAHQALGRlLnR1YmVybGluLnVlYmIuY29tcDEuY292bS5pbnN0cnVjdGlvbnMuSmd0dXEAfgCZAAAAAHEAfgCddXEAfgCfAAAAAHNxAH4AoQBwc3EAfgCmcQB+AKtzcQB+AKEAcHNxAH4ApnNxAH4ArnNxAH4AoQBwc3EAfgCmdXEAfgCEAAAAAHNxAH4AoQBwc3EAfgCmdXEAfgCEAAAAAHNxAH4AoQBwc3EAfgCmdXEAfgC4AAAAB3NxAH4AunEAfgDsc3EAfgC+c3EAfgDBdXEAfgDEAAAAAnNxAH4AxnEAfgDUcQB+AM1zcQB+ALpxAH4A7HNxAH4AvnNxAH4AwXVxAH4AxAAAAANzcQB+AMZxAH4AyXNxAH4AxnQAAmlvcQB+AM1zcQB+ALpxAH4A+XEAfgSec3EAfgC6dAAGRXF1YWxzcQB+BJ5zcQB+ALp0AAtJbnN0cnVjdGlvbnNxAH4AvnNxAH4AwXVxAH4AxAAAAAdzcQB+AMZ0AAJkZXNxAH4AxnQACHR1YmVybGluc3EAfgDGdAAEdWViYnNxAH4AxnQABWNvbXAxc3EAfgDGdAAEY292bXNxAH4AxnQADGluc3RydWN0aW9uc3EAfgDNc3EAfgC6cQB+AL1zcQB+AL5zcQB+AMF1cQB+AMQAAAADc3EAfgDGcQB+AMlzcQB+AMZxAH4Ay3EAfgDNc3EAfgC6cQB+AM9xAH4EnnNxAH4AhnEAfgCTdXEAfgCUAAAAAHNxAH4AlgB0AC5kZS50dWJlcmxpbi51ZWJiLmNvbXAxLmNvdm0uaW5zdHJ1Y3Rpb25zLkxhYmVsdXEAfgCZAAAAAHEAfgCddXEAfgCfAAAAAHNxAH4AoQBwc3EAfgCmcQB+AKtzcQB+AKEAcHNxAH4ApnNxAH4ArnNxAH4AoQBwc3EAfgCmdXEAfgCEAAAAAHNxAH4AoQBwc3EAfgCmdXEAfgCEAAAAAHNxAH4AoQBwc3EAfgCmdXEAfgC4AAAAB3NxAH4AunEAfgDsc3EAfgC+c3EAfgDBdXEAfgDEAAAAAnNxAH4AxnEAfgDUcQB+AM1zcQB+ALpxAH4A7HNxAH4AvnNxAH4AwXVxAH4AxAAAAANzcQB+AMZxAH4AyXNxAH4AxnQAAmlvcQB+AM1zcQB+ALpxAH4A+XEAfgTZc3EAfgC6dAAGRXF1YWxzcQB+BNlzcQB+ALp0AAtJbnN0cnVjdGlvbnNxAH4AvnNxAH4AwXVxAH4AxAAAAAdzcQB+AMZ0AAJkZXNxAH4AxnQACHR1YmVybGluc3EAfgDGdAAEdWViYnNxAH4AxnQABWNvbXAxc3EAfgDGdAAEY292bXNxAH4AxnQADGluc3RydWN0aW9uc3EAfgDNc3EAfgC6cQB+AL1zcQB+AL5zcQB+AMF1cQB+AMQAAAADc3EAfgDGcQB+AMlzcQB+AMZxAH4Ay3EAfgDNc3EAfgC6cQB+AM9xAH4E2XNxAH4AhnEAfgCTdXEAfgCUAAAAAHNxAH4AlgB0AC1kZS50dWJlcmxpbi51ZWJiLmNvbXAxLmNvdm0uaW5zdHJ1Y3Rpb25zLlN0b3B1cQB+AJkAAAAAcQB+ANp1cQB+AJ8AAAAAc3EAfgChAHBzcQB+AKZxAH4Aq3NxAH4AoQBwc3EAfgCmc3EAfgCuc3EAfgChAHBzcQB+AKZ1cQB+AIQAAAAAc3EAfgChAHBzcQB+AKZ1cQB+AIQAAAAAc3EAfgChAHBzcQB+AKZ1cQB+ALgAAAAHc3EAfgC6cQB+AOxzcQB+AL5zcQB+AMF1cQB+AMQAAAACc3EAfgDGcQB+ANRxAH4AzXNxAH4AunEAfgDsc3EAfgC+c3EAfgDBdXEAfgDEAAAAA3NxAH4AxnEAfgDJc3EAfgDGdAACaW9xAH4AzXNxAH4AunEAfgD5cQB+BRRzcQB+ALp0AAZFcXVhbHNxAH4FFHNxAH4AunQAC0luc3RydWN0aW9uc3EAfgC+c3EAfgDBdXEAfgDEAAAAB3NxAH4AxnQAAmRlc3EAfgDGdAAIdHViZXJsaW5zcQB+AMZ0AAR1ZWJic3EAfgDGdAAFY29tcDFzcQB+AMZ0AARjb3Ztc3EAfgDGdAAMaW5zdHJ1Y3Rpb25zcQB+AM1zcQB+ALpxAH4AvXNxAH4AvnNxAH4AwXVxAH4AxAAAAANzcQB+AMZxAH4AyXNxAH4AxnEAfgDLcQB+AM1zcQB+ALpxAH4Az3EAfgUUc3EAfgCGcQB+AJN1cQB+AJQAAAAAc3EAfgCWAHQALmRlLnR1YmVybGluLnVlYmIuY29tcDEuY292bS5pbnN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AxAAAAAdzcQB+AMZ0AAJkZXNxAH4AxnQACHR1YmVybGluc3EAfgDGdAAEdWViYnNxAH4AxnQABWNvbXAxc3EAfgDGdAAEY292bXNxAH4AxnQADGluc3RydWN0aW9uc3EAfgDNc3EAfgC6cQB+AL1zcQB+AL5zcQB+AMF1cQB+AMQAAAADc3EAfgDGcQB+AMlzcQB+AMZxAH4Ay3EAfgDNc3EAfgC6cQB+AM9xAH4F5HVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAGc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAEGRlLnR1YmVybGluLnVlYmJzcQB+Bgx0AAtkZS50dWJlcmxpbnNxAH4GDHQAFmRlLnR1YmVybGluLnVlYmIuY29tcDFzcQB+Bgx0ABtkZS50dWJlcmxpbi51ZWJiLmNvbXAxLmNvdm1zcQB+Bgx0AAJkZXNxAH4GDHQAKGRlLnR1YmVybGluLnVlYmIuY29tcDEuY292bS5pbnN0cnVjdGlvbnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUuEDyFBdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAP0U6XEV4ZXJjaXNlXE1PQ1RlbXBsYXRlIGFuZCBDT1ZNXENPVk1cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFHEbsCOXpg6MT3Tp4ntfopyVYrEk
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDYjHWvAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAANHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cEx+AQx0AA12ZXJzaW9uTnVtYmVyc3EAfgAM3moei3QABm5vdGlmeXNxAH4ADIGlXn90AAd1bmFwcGx5c3EAfgAM0/ytr3QAB2N1cnJpZWRzcQB+AAwZk78YdAAJc3RhY2tTaXplc3EAfgAMYlkin3QABHdhaXRzcQB+AAzKUndjdAAPYXBwbHkkZGVmYXVsdCQ0c3EAfgAMwWVUDXQACGhlYXBTaXplc3EAfgAM8a3UVHQACW9wdFBhcnNlcnNxAH4ADEg0Zht0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADOSqnTd0AA0kYXNJbnN0YW5jZU9mc3EAfgAM3+xYUHQAEDxpbml0PiRkZWZhdWx0JDFzcQB+AAyWdcw2dAAMcHJvZHVjdEFyaXR5c3EAfgAM+YIuwXQABmVxdWFsc3NxAH4ADA0VQcd0AAxhc0luc3RhbmNlT2ZzcQB+AAz72YmEdAAKZGVidWdMZXZlbHNxAH4ADEhkRXp0AAxzeW5jaHJvbml6ZWRzcQB+AAxZHjZzdAANJGlzSW5zdGFuY2VPZnNxAH4ADGhehTV0AA9hcHBseSRkZWZhdWx0JDNzcQB+AAwKkWOcdAAQPGluaXQ+JGRlZmF1bHQkNHNxAH4ADIAbIr90AAZ0dXBsZWRzcQB+AAxD3Bm9dAAIY2FuRXF1YWxzcQB+AAwDtYM8dAAOY29weSRkZWZhdWx0JDRzcQB+AAw1tab5dAAEbWFpbnNxAH4ADGcevuB0AA1wcm9kdWN0UHJlZml4c3EAfgAMtmXdUHQACW5vdGlmeUFsbHNxAH4ADF7JxiJ0AAtyZWFkUmVzb2x2ZXNxAH4ADIDc1wt0AAxpc0luc3RhbmNlT2ZzcQB+AAzoPZurdAAQPGluaXQ+JGRlZmF1bHQkM3NxAH4ADFtJ1sh0AAY8aW5pdD5zcQB+AAxoueqNdAAPYXBwbHkkZGVmYXVsdCQyc3EAfgAMvm1HnnQABWFwcGx5c3EAfgAM73t+PHQAAj09c3EAfgAMdtIf5HQABWNsb25lc3EAfgAM8ZwTHHQAB09wdGlvbnNzcQB+AAxeeg/QdAAOY29weSRkZWZhdWx0JDNzcQB+AAyFQzmtdAAEY29weXNxAH4ADL7dX1B0AA9hcHBseSRkZWZhdWx0JDFzcQB+AAzYYgd2dAAETWFpbnNxAH4ADCmQ9jJ0AAh0b1N0cmluZ3NxAH4ADJgnkup0AAIhPXNxAH4ADFkH88J0AAhnZXRDbGFzc3NxAH4ADDVuNHZ0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADEYUl7l0AAJuZXNxAH4ADDYZ6LF0AAVpbnB1dHNxAH4ADGEyMxF0ABA8aW5pdD4kZGVmYXVsdCQyc3EAfgAMxvi7jHQAAmVxc3EAfgAMhFPo23QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADFwKYN50AAIjI3NxAH4ADCh7OAJ0AAhmaW5hbGl6ZXNxAH4ADKPvDG10AA5wcm9kdWN0RWxlbWVudHNxAH4ADACvphl0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AH94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ACBkZS50dWJlcmxpbi51ZWJiLmNvbXAxLmNvdm0uTWFpbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AJh4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AJcAcHNxAH4AnHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgB/TAAJaW5oZXJpdGVkcQB+AH9MAAdwYXJlbnRzcQB+AH94cQB+AKBzcQB+AJcAcHNxAH4AnHVxAH4AegAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AgHEAfgCJdXEAfgCKAAAAAHNxAH4AjABxAH4APXVxAH4AjwAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCfdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4An3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AvXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AKp4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AJJ0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+ALFbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AJ9zcQB+ALB0AAVBcnJheXEAfgC2dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+ALB0AAZTdHJpbmdzcQB+ALRzcQB+ALd1cQB+ALoAAAADc3EAfgC8dAAEamF2YXNxAH4AvHQABGxhbmdxAH4AwXNxAH4AlwBwc3EAfgCcdXEAfgB6AAAAAHNxAH4AlwBwc3EAfgCcdXEAfgDVAAAAAnNxAH4AsHQABk9iamVjdHEAfgDZc3EAfgCwdAADQW55cQB+ALZ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABBkZS50dWJlcmxpbi51ZWJic3EAfgDsdAALZGUudHViZXJsaW5zcQB+AOx0ABZkZS50dWJlcmxpbi51ZWJiLmNvbXAxc3EAfgDsdAAbZGUudHViZXJsaW4udWViYi5jb21wMS5jb3Ztc3EAfgDsdAACZGVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUuEDyFBdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAP0U6XEV4ZXJjaXNlXE1PQ1RlbXBsYXRlIGFuZCBDT1ZNXENPVk1cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEqaEFeE6/22jT9C8y1luWHrV16B
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC7OpnxAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAASnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDCVX+t0AAZub3RpZnlzcQB+AAwiWIFZdAAHdW5hcHBseXNxAH4ADFceJyp0AAlzdGFja1NpemVzcQB+AAygdtLZdAAPcHJpbnRTdGFja1RyYWNlc3EAfgAMvCrDXXQAE2dldExvY2FsaXplZE1lc3NhZ2VzcQB+AAwJrbzFdAAEd2FpdHNxAH4ADKeb9z10AA1zaG93SGVhcFBsYWluc3EAfgAMlXv4H3QAB3Jlc2VydmVzcQB+AAySr1/ZdAAIaGVhcFNpemVzcQB+AAyDODpFdAANJGFzSW5zdGFuY2VPZnNxAH4ADBv71L50AAVhbGxvY3NxAH4ADFE2nfV0AAdjb21wb3Nlc3EAfgAMUUrcZnQAB0lOVF9UQUdzcQB+AAy3KEDFdAAOc2hvd1N0YWNrUGxhaW5zcQB+AAzgCaFvdAADcG9wc3EAfgAMAvJa53QACmFsbG9jVHVwbGVzcQB+AAzGFQvhdAAMcHJvZHVjdEFyaXR5c3EAfgAMMhjRZXQABXN3ZWVwc3EAfgAMZFjLhXQABmVxdWFsc3NxAH4ADJ62pZ90ABBmaWxsSW5TdGFja1RyYWNlc3EAfgAMlZFXnHQACWluaXRDYXVzZXNxAH4ADGK3cd90AAxhc0luc3RhbmNlT2ZzcQB+AAygVIE3dAAEcHVzaHNxAH4ADO8agWB0AAxzeW5jaHJvbml6ZWRzcQB+AAzIzOPAdAANJGlzSW5zdGFuY2VPZnNxAH4ADMVRBfZ0AAdhbmRUaGVuc3EAfgAMG1iMyXQACGdldENhdXNlc3EAfgAMB4CVqnQACGNhbkVxdWFsc3EAfgAMCwYcdHQADXByb2R1Y3RQcmVmaXhzcQB+AAy9a0YzdAAJbm90aWZ5QWxsc3EAfgAMubznB3QAC3JlYWRSZXNvbHZlc3EAfgAM3Zo3E3QADGlzSW5zdGFuY2VPZnNxAH4ADIV3mLF0AAJmcHNxAH4ADGf9DlZ0AA1nZXRTdGFja1RyYWNlc3EAfgAMoZOhmnQAFGdldFN0YWNrVHJhY2VFbGVtZW50c3EAfgAM2LwUsXQAA2RpZXNxAH4ADGBqe1d0AAY8aW5pdD5zcQB+AAyTy/MPdAAFQ291bnRzcQB+AAwzZm55dAADTklMc3EAfgAMyG7OWXQACmdldE1lc3NhZ2VzcQB+AAybwzrUdAANc2V0U3RhY2tUcmFjZXNxAH4ADK5ZnDd0AAVhcHBseXNxAH4ADC9ohrR0AA1nZXRTdXBwcmVzc2Vkc3EAfgAMgoli5XQACEZSRUVfVEFHc3EAfgAMom+8bnQAAj09c3EAfgAMPbBBmHQACGFsbG9jSW50c3EAfgAM457WSnQAEmdldFN0YWNrVHJhY2VEZXB0aHNxAH4ADE0aumV0AAVjbG9uZXNxAH4ADBqUTJN0AA1hZGRTdXBwcmVzc2Vkc3EAfgAMsVd72HQAAmdjc3EAfgAMNmdnDHQABXN0YWNrc3EAfgAMYPzon3QAF01hY2hpbmVSdW50aW1lRXhjZXB0aW9uc3EAfgAMoNP3CHQABGNvcHlzcQB+AAz0RU0qdAAIdG9TdHJpbmdzcQB+AAwKtohIdAADZXJyc3EAfgAMtEXEunQAEHNob3dEZXJlZlBvaW50ZXJzcQB+AAy1zcardAACIT1zcQB+AAxGkTgAdAAIZ2V0Q2xhc3NzcQB+AAz4jZtedAANc2hvd1N0YWNrV29yZHNxAH4ADPCakwN0AARoZWFwc3EAfgAM/amYR3QADmNvcHkkZGVmYXVsdCQxc3EAfgAMk+nVT3QABG1hcmtzcQB+AAxvrd7YdAACc3BzcQB+AAzQNsBndAACbmVzcQB+AAxnLaw0dAAJVFVQTEVfVEFHc3EAfgAM6UnzEnQACXNob3dTdGFja3NxAH4ADNmE4xR0AAJlcXNxAH4ADNyvxcR0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAx1tu92dAAQTWVtb3J5TWFuYWdlbWVudHNxAH4ADNLQMNd0AAIjI3NxAH4ADIHTsUd0AAhmaW5hbGl6ZXNxAH4ADKvBoXl0AANSZWZzcQB+AAzLlff/dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzKxTVadAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCreHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHABdAAsZGUudHViZXJsaW4udWViYi5jb21wMS5jb3ZtLk1lbW9yeU1hbmFnZW1lbnR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AMR4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AMMAcHNxAH4AyHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCrTAAJaW5oZXJpdGVkcQB+AKtMAAdwYXJlbnRzcQB+AKt4cQB+AMxzcQB+AMMAcHNxAH4AyHVxAH4ApgAAAABzcQB+AMMAcHNxAH4AyHVxAH4ApgAAAABzcQB+AMMAcHNxAH4AyHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ay3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ay3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4A6HQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4A6XNxAH4A3HQAA0FueXNxAH4A4HNxAH4A43VxAH4A5gAAAAJzcQB+AOh0AAVzY2FsYXEAfgDvdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAVzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAQZGUudHViZXJsaW4udWViYnNxAH4A+XQAC2RlLnR1YmVybGluc3EAfgD5dAAWZGUudHViZXJsaW4udWViYi5jb21wMXNxAH4A+XQAG2RlLnR1YmVybGluLnVlYmIuY29tcDEuY292bXNxAH4A+XQAAmRlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFLhA8hQXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AD9FOlxFeGVyY2lzZVxNT0NUZW1wbGF0ZSBhbmQgQ09WTVxDT1ZNXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTqBCXm3YLDxRvSuoHQnsntj+WDlA==
+external apis:
+0 items
+source infos:
+5 items
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\COVM.scala -> 
+AAAAAAAAAAA=
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\InstructionParser.scala -> 
+AAAAAAAAAAA=
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\instructions\Instructions.scala -> 
+AAAAAAAAAAA=
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\Main.scala -> 
+AAAAAAAAAAA=
+E:\Exercise\MOCTemplate and COVM\COVM\src\main\scala\de\tuberlin\uebb\comp1\covm\MemoryManagement.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABS4QPIUF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAP0U6XEV4ZXJjaXNlXE1PQ1RlbXBsYXRlIGFuZCBDT1ZNXENPVk1cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
